@@ -1,2 +1,2 @@
-# NewRepository
+# `my-first-repo` 
 SAcourse
